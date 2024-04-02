@@ -25,7 +25,7 @@
 5. ls with path to directory as argument
 	* ![Image](Ex6.PNG)
 	* Absolute Path: /c/users/Naye
-	* Output Explanation: ls command lists every file in the lecture1 directory, which is displayed in the output. 
+	* Output Explanation: ls command lists every file in the lecture1 directory, which is displayed in the output. Also includes the directory messages since it's located in the directory lecture1. 
 	* Error: None, working as intended. 
 6. ls with path to file as argument
 	* ![Image](Ex5.PNG)
