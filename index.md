@@ -24,28 +24,28 @@
 	* Error: None, working as intended. 
 5. ls with path to directory as argument
 	* ![Image](Ex6.PNG)
-	* Absolute Path: /c/users/Naye/lecture1
-	* Output Explanation: ls command lists every file in the lecture1 directory.
+	* Absolute Path: /c/users/Naye
+	* Output Explanation: ls command lists every file in the lecture1 directory, which is displayed in the output. 
 	* Error: None, working as intended. 
 6. ls with path to file as argument
 	* ![Image](Ex5.PNG)
 	* Absolute Path: /c/users/Naye/lecture1
-	* Output Explanation: ls command lists every file in the lecture1 directory.
+	* Output Explanation: Since the argument for ls is a filepath, the ls command will simply output the argument again since ls just lists files. 
 	* Error: None, working as intended.
 
 ### cat commands
 7. cat without argument 
 	* ![Image](Ex7.PNG)
 	* Absolute Path: /c/users/Naye/lecture1
-	* Output Explanation: Nothing happens because the file HelloWorld.java is not a directory and thus the CD command can't do anything with it. 
-	* Error: Yes, the error occurs because the file path is not a directory.
+	* Output Explanation: Cat starts reading from standard inputs if ou don't specify a file so it'll simply keep outputting whatever you type in until you press ctrl+d. Since I haven't written anything yet after inputting in cat without an argument, it only outputs a blank. If I write something like "dog", it'll output "dog" back. 
+	* Error: Not an explicit error but you have to press ctrl+d to stop cat command from repeating any further inputs. 
 8. cat with path to directory as argument
 	* ![Image](Ex8.PNG)
-	* Absolute Path: /c/users/Naye/lecture1
-	* Output Explanation: Nothing happens because the file HelloWorld.java is not a directory and thus the CD command can't do anything with it. 
-	* Error: Yes, the error occurs because the file path is not a directory. 
+	* Absolute Path: /c/users/Naye
+	* Output Explanation: Nothing happens because lecture1 is not a file so cat command cannot show anything. 
+	* Error: Yes, the error occurs because the directory path is not a file.
 9. cat with path to file as argument 
 	* ![Image](Ex9.PNG)
 	* Absolute Path: /c/users/Naye/lecture1
-	* Output Explanation: Nothing happens because the file HelloWorld.java is not a directory and thus the CD command can't do anything with it. 
-	* Error: Yes, the error occurs because the file path is not a directory. 
+	* Output Explanation: Reads the contents of txt file called en-us.txt. The output is simply "Hello World!". 
+	* Error: None, working as intended.
