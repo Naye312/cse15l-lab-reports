@@ -1,4 +1,6 @@
-This is the code block Chat Server
+## Lab Report 2
+### Part 1
+This is the code block for ChatServer.java.
 ```
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -69,3 +71,4 @@ class StringServer {
   }
 }
 ```
+
