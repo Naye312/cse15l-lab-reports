@@ -71,5 +71,6 @@ class StringServer {
   }
 }
 ```
-![Image][1.PNG]
-![Image][2.PNG]
+![Image][1.png]
+
+![Image][2.png]
