@@ -1,3 +1,5 @@
+This is the code block Chat Server
+```
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -66,3 +68,4 @@ class StringServer {
     Server.start(port, new StringHandler(args[1]));
   }
 }
+```
