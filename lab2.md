@@ -72,5 +72,15 @@ class StringServer {
 }
 ```
 ![Image](1.png)
-
+* Methods called:
+* Relevant arguments:
+* Values changed: 
 ![Image](2.png)
+* Methods called:
+* Relevant arguments:
+* Values changed:
+
+### Part 2
+1. ![Image](3.png)
+2. ![Image](4.png)
+3. ![Image](5.png)![Image](6.png)
