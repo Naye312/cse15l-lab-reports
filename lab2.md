@@ -74,7 +74,8 @@ class StringServer {
 ![Image](1.png)
 * Methods called:
 * Relevant arguments:
-* Values changed: 
+* Values changed:
+  
 ![Image](2.png)
 * Methods called:
 * Relevant arguments:
@@ -84,3 +85,6 @@ class StringServer {
 1. ![Image](3.png)
 2. ![Image](4.png)
 3. ![Image](5.png)![Image](6.png)
+
+### Part 3
+From week 2, I've learned about creating my own web servers and seeing other people being able to edit it was rather novel. From week 3, I've also learned how to log into my cse15l account without the need to input my password everytime using ssh keys, which was very convenient and would save lots of time for future logins. 
