@@ -9,7 +9,7 @@
 	* ![Image](Ex2.PNG)
 	* Absolute Path: `/c/users/Naye`
 	* Output Explanation: The reason that the directory changes to `/c/users/Naye/lecture1` is because we started from the absolute path and moved to the `lecture1` directory when given `lecture1` as an argument.
- 	* Error: None, working as intended.
+	* Error: None, working as intended. 
 3. cd with path to file as argument
 	* ![Image](Ex3.PNG)
 	* Absolute Path: `/c/users/Naye/lecture1`
@@ -21,7 +21,7 @@
 	* ![Image](Ex4.PNG)
 	* Absolute Path: `/c/users/Naye`
 	* Output Explanation: `ls` command lists everything in the directory. Since the absolute path is `/c/users/Naye`, the `ls` command will list everything there, including the directory `lecture1`.
-	* Error: None, working as intended. 
+	* Error: None, working as intended.
 5. ls with path to directory as argument
 	* ![Image](Ex6.PNG)
 	* Absolute Path: `/c/users/Naye`
