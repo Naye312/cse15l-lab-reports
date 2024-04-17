@@ -3,7 +3,7 @@
 1. cd without argument
 	* ![Image](Ex1.PNG)
 	* Absolute Path: `/c/users/Naye`
-	* Output Explanation: The reason that the directory changes to '/h' is because the home directory is what the `cd` command will default to if given no arguments  
+	* Output Explanation: The reason that the directory changes to `/h` is because the home directory is what the `cd` command will default to if given no arguments  
 	* Error: None, working as intended. 
 2. cd with path to directory as argument
 	* ![Image](Ex2.PNG)
