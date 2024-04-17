@@ -80,8 +80,8 @@ class StringServer {
    * `lines` includes a new value `"jpolitz: Hello"`
    * 'query' value is changed to `"s=Hello&user=jpolitz"`
    * 'orig' value is changed to `"jpolitz: Hello"`
-   * 'user' value is changed to `"jpolitz"'
-   * 'message' value is changed to `"Hello"'
+   * 'user' value is changed to `"jpolitz"`
+   * 'message' value is changed to `"Hello"`
   
 ![Image](2.png)
 1. Methods called: 'handleRequest'
@@ -92,8 +92,8 @@ class StringServer {
    * `lines` includes a new value `"yash: How are you"`
    * 'query' value is changed to `"s=How are you&user=yash"`
    * 'orig' value is changed to `"yash: How are you"`
-   * 'user' value is changed to `"yash"'
-   * 'message' value is changed to `"How are you"'
+   * 'user' value is changed to `"yash"`
+   * 'message' value is changed to `"How are you"`
 
 ### Part 2
 1. ![Image](3.png)
