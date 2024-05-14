@@ -4,10 +4,10 @@ We are going to reproduce the steps from the lab.
 2. **Setup** Fork the repository
 3. **The real deal** Start the timer!
 4. Log into ieng6
-   * ![Image](Step4.PNG)
+   * ![Image](Step4.png)
    * `ssh <space> naye@ieng6.ucsd.edu`
 5. Clone your fork of the repository from your Github account
-   * ![Image](Step5.PNG)
+   * ![Image](Step5.png)
    * `git <space> clone <space> https://github.com/Naye312/lab7.git`
 6. Run the tests, demonstrating that they fail
    * ![Image](Step6.PNG)
