@@ -13,15 +13,15 @@ We are going to reproduce the steps from the lab.
    * ![Image](Step6.png)
    * `bash <space> test.sh`
 7. Edit the code file to fix the failing test
-   * ![Image](Step7.PNG)
+   * ![Image](Step7.png)
    * `vim <space> ListExamplesTests.java`
      
      `/l2 <enter> nn <right> <esc> r1/l1 <enter> <right> r2 <esc> :wq`
 8. Run the tests, demonstrating that they now succeed
-   * ![Image](Step8.PNG)
+   * ![Image](Step8.png)
    * `bash <space> test.sh`
 9. Commit and push the resulting change to your Github account
-   * ![Image](Step9.PNG)
+   * ![Image](Step9.png)
    * `git <space> add <space> ListExamplesTests.java`
      
      `git <space> commit <space> -m <space> "Fixed second test"`
