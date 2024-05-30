@@ -7,6 +7,7 @@
    ![Image](2.png)
 5. All the information about the setup: 
     * The file and directory structure:
+
       ![Image](5.png)
     * The contents of each file before fixing the bug:
       This is the relevant part for `StringChecker.java` and `TestListExamples.java`
